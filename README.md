@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cawtterminal&color=cba6f7&style=flat-square" alt="profile views" />
+  <img src="https://profile-counter.glitch.me/cawtterminal/count.svg" alt="profile views" />
 </p>
 
 <br>
@@ -30,6 +30,6 @@
 <h3 align="left">github statistics</h3>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=cawtterminal&show_icons=true&theme=catppuccin_mocha&title_color=f4b8e4&text_color=cdd6f4&icon_color=ca9ee6&bg_color=1e1e2e&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cawtterminal&layout=compact&theme=catppuccin_mocha&title_color=f4b8e4&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true&langs_count=5" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=cawtterminal&show_icons=true&theme=catppuccin_mocha&title_color=f4b8e4&text_color=cdd6f4&icon_color=ca9ee6&bg_color=1e1e2e&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cawtterminal&layout=compact&theme=catppuccin_mocha&title_color=f4b8e4&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true&langs_count=5&count_private=true&hide=css" />
 </p>
