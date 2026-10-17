@@ -31,5 +31,7 @@
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=cawtterminal&show_icons=true&theme=catppuccin_mocha&title_color=f4b8e4&text_color=cdd6f4&icon_color=ca9ee6&bg_color=1e1e2e&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cawtterminal&layout=compact&theme=catppuccin_mocha&title_color=f4b8e4&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true&langs_count=5&count_private=true&hide=css" />
+  
+  <!-- Tarjeta con lenguajes y porcentajes personalizados -->
+  <img height="150" src="https://quickchart.io/chart?bkg=%231e1e2e&c={type:%27doughnut%27,data:{labels:[%27Java%27,%27CSS%27,%27Python%27,%27JavaScript%27,%27Brainfuck%27],datasets:[{data:[35,25,20,15,5],backgroundColor:[%27%23f4b8e4%27,%27%2381c8be%27,%27%23e5c890%27,%27%23ca9ee6%27,%27%23eebebe%27]}]},options:{plugins:{legend:{labels:{color:%27%23cdd6f4%27,font:{size:10}}}},title:{display:true,text:%27Most%20Used%20Languages%27,color:%27%23f4b8e4%27,font:{size:14}}}}" />
 </p>
